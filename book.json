@@ -1,5 +1,6 @@
 {
   "language": "hans",
+  "title": "浪潮社区指南",
   "plugins": [
     "theme-gestalt",
     "-theme-default",
