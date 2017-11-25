@@ -1,6 +1,7 @@
 {
   "language": "hans",
-  "title": "浪潮社区指南",
+  "title": "浪潮社区指南（试验版）",
+  "description": "小朋友们，好好学习，天天向上，识得不识得啊？",
   "plugins": [
     "theme-gestalt",
     "-theme-default",
