@@ -6,4 +6,8 @@ $color-primary: #1e8bc3;
   max-height: 60px !important;
 }
 
+.markdown-section * {
+  line-height: 2 !important;
+}
+
 @import "../node_modules/gitbook-plugin-theme-gestalt/src/scss/_all";
