@@ -10,7 +10,7 @@
   "pluginsConfig": {
     "theme-gestalt": {
       "logo": "/assets/logo.png",
-      "favicon": "/assets/favicon.png",
+      "favicon": "/assets/favicon.ico",
       "excludeDefaultStyles": true
     }
   },
