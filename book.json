@@ -5,13 +5,17 @@
   "plugins": [
     "theme-gestalt",
     "-theme-default",
-    "styles-sass-fix"
+    "styles-sass-fix",
+    "ga"
   ],
   "pluginsConfig": {
     "theme-gestalt": {
       "logo": "/assets/logo.png",
       "favicon": "/assets/favicon.ico",
       "excludeDefaultStyles": true
+    },
+    "ga": {
+      "token": "UA-109441031-2"
     }
   },
   "styles": {
