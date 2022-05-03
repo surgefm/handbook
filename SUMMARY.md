@@ -11,7 +11,7 @@
 ## ✏ 贡献 <a href="#contribute" id="contribute"></a>
 
 * [用户角色和权限](contribute/she-qu-yong-hu-jiao-se.md)
+* [创建新时间线](contribute/chuang-jian-xin-shi-jian-xian.md)
 * [新闻编辑室](contribute/xin-wen-bian-ji-shi/README.md)
-  * [创建新时间线](contribute/xin-wen-bian-ji-shi/chuang-jian-xin-shi-jian-xian.md)
   * [添加进展](contribute/xin-wen-bian-ji-shi/tian-jia-jin-zhan.md)
-  * [摘录新闻](contribute/xin-wen-bian-ji-shi/ru-he-zhai-lu-xin-wen.md)
+  * [摘录新闻](contribute/ru-he-zhai-lu-xin-wen.md)
