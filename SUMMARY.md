@@ -15,3 +15,7 @@
 * [新闻编辑室](contribute/xin-wen-bian-ji-shi/README.md)
   * [添加进展](contribute/xin-wen-bian-ji-shi/tian-jia-jin-zhan.md)
   * [摘录新闻](contribute/ru-he-zhai-lu-xin-wen.md)
+
+## 💻 参与开发 <a href="#development" id="development"></a>
+
+* [加入开发团队](development/jia-ru-kai-fa-tuan-dui.md)
