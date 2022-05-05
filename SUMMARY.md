@@ -6,7 +6,7 @@
 
 * [事件与时间线](structure/events-and-timelines.md)
 * [进展和新闻](structure/progress-and-news.md)
-* [标签](structure/tags.md)
+* [话题](structure/tags.md)
 * [平行时间线](structure/parallel-timelines.md)
 
 ## ✏ 贡献 <a href="#contribute" id="contribute"></a>
