@@ -5,7 +5,7 @@
 在浪潮，社会事件需满足以下两点：
 
 1. 关乎一个或多个群体的权益
-2. 已有[符合要求](../contribute/ru-he-zhai-lu-xin-wen.md#xin-wen-lu-yong-biao-zhun)的新闻
+2. 已有[符合要求](../contribute/newsroom/add-news.md#xin-wen-lu-yong-biao-zhun)的新闻
 
 需要注意的是，社会事件不是：
 
