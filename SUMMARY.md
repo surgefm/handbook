@@ -1,6 +1,7 @@
 # Table of contents
 
 * [欢迎](README.md)
+* [常见问题](FAQ.md)
 
 ## 📐 浪潮的架构 <a href="#structure" id="structure"></a>
 
@@ -10,7 +11,7 @@
 
 ## ✏ 贡献 <a href="#contribute" id="contribute"></a>
 
-* [参与贡献](contribute/can-yu-gong-xian.md)
+* [参与贡献](contribute/ways-of-participation.md)
 * [用户角色和权限](contribute/roles.md)
 * [创建新时间线](contribute/create-a-timeline.md)
 * [新闻编辑室](contribute/newsroom/README.md)
