@@ -6,6 +6,8 @@
 2. 填写新闻内容后保存。
 3. 将新闻从「备选新闻」栏中拖入到对应**进展**（不管是已经在时间线的进展或是备选进展）里。
 
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLikxbVkk6Pcn6hwKeZpM%2Fuploads%2FqN4oGA37d99zFTVdsLPN%2F%E6%B7%BB%E5%8A%A0%E6%96%B0%E9%97%BB.mp4?alt=media&token=90d01aa5-576d-4b23-93f1-a428070df6b0" %}
+
 ## 格式上的最佳实践
 
 有序、合规的新闻摘录方式不仅能保证时间线的质量，更能确保他人的法律权益不受侵犯，这有助于浪潮社区的长久运行。摘录新闻时，应注意以下几点：
